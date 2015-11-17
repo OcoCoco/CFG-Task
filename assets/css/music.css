@@ -1,0 +1,29 @@
+h1{
+	font-family: Poiret One;
+	font-size: 40px;
+	text-align: center;
+	font-style: bold;
+}
+h2{
+    font-family: Poiret One;
+	font-size: 35px;
+    font-style: bold;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 200;
+	line-height: 30px;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+.cimg{
+     border-radius: 50%;
+}
+.imgs{
+    text-align: center;
+}
+.cimg:hover{
+    -webkit-filter: opacity(0.4);
+}
+
