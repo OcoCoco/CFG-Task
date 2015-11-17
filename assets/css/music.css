@@ -10,6 +10,15 @@ h2{
     font-style: bold;
     display: inline;
 }
+.s1{
+    padding: 110px;
+}
+.s2{
+    padding: 140px;
+}
+.s3{
+    padding: 60px;
+}
 p{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 200;
@@ -28,5 +37,11 @@ p{
     -webkit-filter: opacity(0.4);
 }
 .music_library{
+    display: inline;
     text-align: center;
 }
+.subheading{
+    text-align: center;
+}
+
+
