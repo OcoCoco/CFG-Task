@@ -23,3 +23,32 @@ h1 span {
     width: 100%;
     height: auto;
 }
+p{
+  background-color: rgba(0, 120, 100, 0.51);
+  position: absolute;
+  bottom: -262px;
+  left: 15px;
+  width: 550px;
+  padding: 20px;
+  display: block;
+  color: white;
+  font-size: 22px;
+}
+.prompt{
+  background-color: rgba(100, 10, 100, 0.51);
+  position: absolute;
+  bottom: -360px;
+  left: 45px;
+  width: 200px;
+  padding: 20px;
+  display: block;
+  color: white;
+  font-size: 24px;
+
+}
+#wowslider-container1{
+    position: absolute;
+    top: -355px;
+    left: 280px;
+    display: block;
+}
