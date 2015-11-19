@@ -36,12 +36,16 @@ p{
 .cimg:hover{
     -webkit-filter: opacity(0.4);
 }
-.music_library{
-    display: inline;
-    text-align: center;
-}
 .subheading{
     text-align: center;
 }
 
+#hideaway{
+    position: relative;
+    left: 10px;
+}
+.sub{
+    position: relative;
+    right: 0px;
+}
 
